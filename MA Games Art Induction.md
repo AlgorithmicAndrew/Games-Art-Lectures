@@ -39,7 +39,7 @@ slides: https://hackmd.io/@GamesArt/r1XlCNlMj
 ## IP1 Specialist Sessions
 - Alternating weeks, 3hrs
 - Andrew King and Adam Cain
-    - Technical Art/Tooling and Traditional Art/Concept
+    - Technical Art/Tooling
     - 1hr R&D over coffee, 1hr Lecture/demo, 1hr Workshop
     - If you want me to cover something specific, then just let me know.
 
@@ -74,6 +74,11 @@ slides: https://hackmd.io/@GamesArt/r1XlCNlMj
 ---
 
 {%youtube Zm5Ogh_c0Ig %}
+
+---
+
+![](https://i.imgur.com/2hnX7ZC.jpg)
+Blame!, Tsutomu Nihei
 
 ---
 
