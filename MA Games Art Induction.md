@@ -46,9 +46,9 @@ slides: https://hackmd.io/@GamesArt/r1XlCNlMj
 ---
 
 ## Session 01
-### Caravaggio, Opalka and Carceri d'invenzione.
-#### Games Art as conversation with the Eternal.
-##### Andrew Ghribi-King
+### Caravaggio, Moore's Law and Carceri d'invenzione.
+#### Games Art as conversation with the infinite.
+##### Andrew King
 
 ---
 
@@ -77,8 +77,10 @@ slides: https://hackmd.io/@GamesArt/r1XlCNlMj
 
 ---
 
-![](https://i.imgur.com/2hnX7ZC.jpg)
-Blame!, Tsutomu Nihei
+### Additional R&D
+- Harvard Referencing for your Bibliography
+- PechaKucha: 20 slides x 20 seconds
+- Whatever you want
 
 ---
 
